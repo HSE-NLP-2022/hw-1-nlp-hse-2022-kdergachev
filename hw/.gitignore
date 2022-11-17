@@ -1,0 +1,6 @@
+hpac_corpus
+hpac_source
+english.conll.4class.distsim.crf.ser.gz
+hpac_lower_tokenized.zip
+hpac_splits.zip
+stanford-ner.jar
